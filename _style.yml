@@ -1,0 +1,20 @@
+name: "Kim, BYUNGJU "
+output_dir: "."
+navbar:
+  title: "Welcome"
+  left:
+    - text: "Who am I?"
+      href: research.html
+    - text: "public Talk"
+      href: talks.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/byungju-kim
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css
